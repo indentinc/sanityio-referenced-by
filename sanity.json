@@ -1,9 +1,9 @@
 {
   "parts": [
     {
-      "name": "part:@indent/referenced-by",
+      "name": "part:@indent/sanityio-referenced-by",
       "description": "Input components showing which documents are referenced",
-      "path": "./index.tsx"
+      "path": "./index.js"
     }
   ]
 }
