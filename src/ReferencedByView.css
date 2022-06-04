@@ -1,0 +1,18 @@
+@import 'part:@sanity/base/theme/variables-style';
+
+.container {
+  margin-left: var(--medium-padding);
+  margin-right: var(--medium-padding);
+}
+
+.inner-container {
+  max-width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: var(--large-padding);
+  margin-bottom: var(--medium-padding);
+}
+
+.title {
+  font-size: 0.8em;
+}

@@ -1,0 +1,43 @@
+@import 'part:@sanity/base/theme/variables-style';
+
+.root {
+  composes: root from 'part:@sanity/components/lists/default-style';
+}
+
+.item {
+  composes: lineBetween from 'part:@sanity/components/lists/default-item-style';
+  background: var(--white);
+  padding: var(--medium-padding);
+  border-radius: var(--border-radius-base);
+  color: inherit;
+  margin-bottom: var(--small-padding);
+  border: 1px solid var(--list-border-color);
+}
+
+.item-active:hover {
+  background: #f7f7f7;
+}
+
+.schema-title {
+  margin-top: 0;
+  margin-bottom: var(--small-padding);
+  font-weight: 400;
+  font-size: 0.75em;
+}
+
+.link {
+  width: 100%;
+  color: inherit;
+  text-decoration: none;
+}
+
+.no-document {
+  border: 1px solid var(--list-border-color);
+  padding: var(--medium-padding) var(--small-padding);
+  border-radius: var(--border-radius-base);
+  color: #373737;
+}
+
+.spinner {
+  text-align: left;
+}
