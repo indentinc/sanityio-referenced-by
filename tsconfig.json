@@ -11,7 +11,8 @@
     "declarationDir": "lib/types",
     "outDir": "lib",
     "pretty": true,
-    "typeRoots": ["node_modules/@types"]
+    "typeRoots": ["node_modules/@types"],
+    "jsx": "react-jsx"
   },
   "include": ["src"]
 }
