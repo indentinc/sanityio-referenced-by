@@ -1,18 +1,19 @@
 {
   "root": true,
+  "api": {
+    "projectId": "ds81cxaj",
+    "dataset": "production"
+  },
   "project": {
     "name": "@indent/referenced-by-example"
-  },
-  "api": {
-    "projectId": "arbqxc4k",
-    "dataset": "production"
   },
   "plugins": [
     "@sanity/base",
     "@sanity/default-layout",
     "@sanity/default-login",
     "@sanity/desk-tool",
-    "@sanity/google-maps-input"
+    "@sanity/google-maps-input",
+    "@indent/sanityio-referenced-by"
   ],
   "env": {
     "development": {
@@ -25,6 +26,10 @@
     {
       "name": "part:@sanity/base/schema",
       "path": "./schemas/schema"
+    },
+    {
+      "name": "part:@sanity/desk-tool/structure",
+      "path": "./sanity-structure.js"
     }
   ]
 }
