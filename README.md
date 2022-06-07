@@ -1,4 +1,4 @@
-# @indent/sanityio-referenced-by
+# @indent-oss/sanityio-referenced-by
 
 Plugin to see which documents reference a particular document
 
@@ -9,20 +9,20 @@ Plugin to see which documents reference a particular document
 
 1. Have an existing Sanity.io Studio Project
 
-2. Install `@indent/sanityio-referenced-by` plugin using the command line:
+2. Install `@indent-oss/sanityio-referenced-by` plugin using the command line:
 ```bash
 # npm
-npm i @indent/sanityio-referenced-by
+npm i @indent-oss/sanityio-referenced-by
 
 # yarn
-yarn add @indent/sanityio-referenced-by
+yarn add @indent-oss/sanityio-referenced-by
 ```
 
-3. Add `@indent/sanityio-referenced-by` to `sanity.json` "plugins":
+3. Add `@indent-oss/sanityio-referenced-by` to `sanity.json` "plugins":
 ```json
   // /sanity.json
   "plugins": [
-    "@indent/sanityio-referenced-by"
+    "@indent-oss/sanityio-referenced-by"
   ],
 ```
 
@@ -41,7 +41,7 @@ yarn add @indent/sanityio-referenced-by
 
 ```js
 // /sanity-structure.js
-import {ReferencedByView} from 'part:@indent/sanityio-referenced-by'
+import {ReferencedByView} from 'part:@indent-oss/sanityio-referenced-by'
 import S from '@sanity/desk-tool/structure-builder'
 
 export const getDefaultDocumentNode = () => {
@@ -58,7 +58,7 @@ Please note that Sanity.io Studio requires a `title` as a property of `S` in the
 
 6. Run the Sanity.io Studio Project - "Referenced By" plugin tab appears
 
-The `example` directory contains an example Sanity.io Studio project which has the `@indent/sanityio-referenced-by` plugin already installed
+The `example` directory contains an example Sanity.io Studio project which has the `@indent-oss/sanityio-referenced-by` plugin already installed
 
 ## Credits
 

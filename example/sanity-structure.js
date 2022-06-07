@@ -1,4 +1,4 @@
-import {ReferencedByView} from 'part:@indent/sanityio-referenced-by'
+import {ReferencedByView} from 'part:@indent-oss/sanityio-referenced-by'
 import S from '@sanity/desk-tool/structure-builder'
 
 export const getDefaultDocumentNode = () => {

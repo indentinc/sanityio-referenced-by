@@ -1,7 +1,7 @@
 {
   "parts": [
     {
-      "name": "part:@indent/sanityio-referenced-by",
+      "name": "part:@indent-oss/sanityio-referenced-by",
       "description": "Input components showing which documents are referenced",
       "path": "./index.js"
     }

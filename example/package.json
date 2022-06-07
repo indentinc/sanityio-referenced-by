@@ -14,7 +14,7 @@
     "sanity"
   ],
   "dependencies": {
-    "@indent/sanityio-referenced-by": "file:../../indent-public/content/studio/vendor/indent-sanityio-referenced-by-v0.1.0.tgz",
+    "@indent-oss/sanityio-referenced-by": "file:../../indent-public/content/studio/vendor/indent-sanityio-referenced-by-v0.1.0.tgz",
     "@sanity/base": "^2.30.1",
     "@sanity/core": "^2.30.1",
     "@sanity/default-layout": "^2.30.1",

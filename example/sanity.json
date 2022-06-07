@@ -13,7 +13,7 @@
     "@sanity/default-login",
     "@sanity/desk-tool",
     "@sanity/google-maps-input",
-    "@indent/sanityio-referenced-by"
+    "@indent-oss/sanityio-referenced-by"
   ],
   "env": {
     "development": {
