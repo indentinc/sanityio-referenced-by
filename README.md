@@ -1,6 +1,6 @@
 # @indent/sanityio-referenced-by
 
-Plugin for viewing resources which reference a particular resource
+Plugin to see which documents reference a particular document
 
 <img src="./referenced-by-example.png" alt="Indent - Sanityio referenced-by Plugin Example">
 
