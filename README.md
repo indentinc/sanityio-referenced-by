@@ -2,21 +2,25 @@
 
 Plugin to see which documents reference a particular document
 
-<img src="./referenced-by-example.png" alt="Indent - Sanityio referenced-by Plugin Example">
-
+![Indent - Sanityio referenced-by Plugin Example](./referenced-by-example.png "Indent - Referenced By Plugin")
 
 ## Getting started
 
 1. Have an existing Sanity.io Studio Project
 
 2. Install `@indent-oss/sanityio-referenced-by` plugin using the command line:
-```bash
-# npm
-npm i @indent-oss/sanityio-referenced-by
 
-# yarn
-yarn add @indent-oss/sanityio-referenced-by
-```
+    - NPM
+
+    ```bash
+    npm i @indent-oss/sanityio-referenced-by
+    ```
+
+    - Yarn
+
+    ```bash
+    yarn add @indent-oss/sanityio-referenced-by
+    ```
 
 3. Add `@indent-oss/sanityio-referenced-by` to `sanity.json` "plugins":
 ```json
