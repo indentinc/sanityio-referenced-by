@@ -1074,9 +1074,10 @@
   resolved "https://registry.yarnpkg.com/@humanwhocodes/object-schema/-/object-schema-1.2.1.tgz#b520529ec21d8e5945a1851dfd1c32e94e39ff45"
   integrity sha512-ZnQMnLV4e7hDlUvw8H+U8ASL02SS2Gn6+9Ac3wGGLIe7+je2AeAOxPY+izIPJDfFDb7eDjev0Us8MO1iFRN8hA==
 
-"@indent-oss/sanityio-referenced-by@file:../../indent-public/content/studio/vendor/indent-sanityio-referenced-by-v0.1.0.tgz":
-  version "0.1.0"
-  resolved "file:../../indent-public/content/studio/vendor/indent-sanityio-referenced-by-v0.1.0.tgz#182ccc6ab57abe65345f4d7c77ae38211dc0f372"
+"@indent-oss/sanityio-referenced-by@^0.1.1":
+  version "0.1.1"
+  resolved "https://registry.yarnpkg.com/@indent-oss/sanityio-referenced-by/-/sanityio-referenced-by-0.1.1.tgz#cc86f2e6c8aaa70e4def91b1ce5a96b37744d44a"
+  integrity sha512-hJua1+Hvw10Y+e2JNZrdrHj8yDSFp2jwrEEQMLxPlaF2Os30bAp4kS7S7mfUU5Bllg27miFXOkAQIQK0/bgPFQ==
 
 "@jridgewell/gen-mapping@^0.1.0":
   version "0.1.1"
