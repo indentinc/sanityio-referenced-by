@@ -4,8 +4,7 @@ Plugin to see which documents reference a particular document
 
 ![Indent - Sanityio referenced-by Plugin Example](./referenced-by-example.png "Indent - Referenced By Plugin")
 
-https://user-images.githubusercontent.com/31798108/172921354-48938494-2da9-4b5f-b6bd-3d570d512325.mov
-
+https://user-images.githubusercontent.com/31798108/173065150-7a431b6d-f997-4a14-8f27-01649c2fc089.mov
 
 
 ## Getting started
