@@ -2,10 +2,9 @@
 
 Plugin to see which documents reference a particular document
 
-![Indent - Sanityio referenced-by Plugin Example](./referenced-by-example.png "Indent - Referenced By Plugin")
-
 https://user-images.githubusercontent.com/31798108/173065472-95294be4-7fc1-4f19-ba6c-e313c67acbed.mov
 
+*Video Alt Text: Demonstration of the Referenced-by Plugin* 
 
 ## Getting started
 
