@@ -2,7 +2,7 @@
   "name": "@indent-oss/sanityio-referenced-by",
   "author": "Natalie Marleny <natalie.marleny@indent.com>",
   "license": "MIT",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "Plugin for viewing resources which reference a particular resource",
   "homepage": "https://indent.com/blog",
   "repository": {
