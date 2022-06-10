@@ -2,6 +2,8 @@
 
 Plugin to see which documents reference a particular document
 
+![referenced-by-sanityio](https://user-images.githubusercontent.com/31798108/173106725-25c7704c-e4ca-4f5a-84a3-3b3dd8237986.JPG)
+
 https://user-images.githubusercontent.com/31798108/173065472-95294be4-7fc1-4f19-ba6c-e313c67acbed.mov
 
 *Video Alt Text: Demonstration of the Referenced-by Plugin* 
