@@ -34,21 +34,21 @@ https://user-images.githubusercontent.com/31798108/173065472-95294be4-7fc1-4f19-
   ],
 ```
 
-4. Add `sanity-structure.js` reference to `sanity.json` "parts":
+4. Add `deskStructure.js` reference to `sanity.json` "parts":
 ```json
   // /sanity.json
   "parts": [
     {
       "name": "part:@sanity/desk-tool/structure",
-      "path": "./sanity-structure.js"
+      "path": "./deskStructure.js"
     }
   ]
 ```
 
-5. Create and/or update `sanity-structure.js` in the root directory:
+5. Create and/or update `deskStructure.js` in the root directory:
 
 ```js
-// /sanity-structure.js
+// /deskStructure.js
 import {ReferencedByView} from 'part:@indent-oss/sanityio-referenced-by'
 import S from '@sanity/desk-tool/structure-builder'
 
